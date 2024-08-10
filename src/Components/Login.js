@@ -19,6 +19,7 @@ const Login = () => {
               type="email"
               className="bg-gray-200 focus:outline-none p-2 w-full rounded-md"
             />
+            
           </div>
           <div className="">
             <label className="inline-block text-xl pb-3">
